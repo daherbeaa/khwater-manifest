@@ -1,0 +1,20 @@
+{
+  "name": "خواطر ",
+  "short_name": "خواطر",
+  "start_url": "/?m=1",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0d47a1",
+  "icons": [
+    {
+      "src": "https://www2.0zz0.com/2025/07/30/20/195961687.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://www2.0zz0.com/2025/07/30/20/871112733.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
